@@ -1,0 +1,20 @@
+body {
+    background-color: #aabbc1;
+}
+
+h1 { 
+    color: #ff0000;
+    text-align: center;
+
+}
+
+p {
+    color: #000000;
+}
+
+p1 {
+    color: #000000;
+    font family: 'Abril Fatface', cursive;
+    p.dotted {border-style: dotted;}
+    text-align: center;    
+}
